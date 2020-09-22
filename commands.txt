@@ -1,0 +1,6 @@
+docker exec -it laravel-app_workspace_1 bash - войти в контейнер с bash
+composer create-project laravel/laravel . - деплой laravel проекта
+
+
+https://parastrok.ru/post/laradock-vue-hot-reload-fix
+
